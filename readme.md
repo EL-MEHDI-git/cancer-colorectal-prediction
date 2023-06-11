@@ -16,4 +16,8 @@ The project includes the following features:
 
 
 ## Notebooks
-The project involved experimenting with various techniques, which can be found in the notebook Features_Engineering [All_techniques_tried].ipynb. The final version of the project can be found in the notebook ACP + VotingClassifier.ipynb.
+The notebook "Features_Engineering [All_techniques_tried].ipynb" :  All techniques i've tried
+
+The notebook "ACP + VotingClassifier.ipynb" : The final version of the project.
+
+The notebook "Interface graphique - Cancer colorectal.ipynb" : This notebook contains a code for preprocessing the input & also the user interface code
