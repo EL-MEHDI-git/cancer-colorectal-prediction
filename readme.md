@@ -9,10 +9,10 @@ The project focuses on developing machine learning models for predicting complic
 ## Features
 The project includes the following features:
 
-Data preparation, cleaning, and visualization
-Feature engineering (dimensionality reduction)
-Development of predictive models for surgical complications
-Creation of a graphical user interface
+- Data preparation, cleaning, and visualization
+- Feature engineering (dimensionality reduction)
+- Development of predictive models for surgical complications
+- Creation of a graphical user interface
 
 
 ## Notebooks
